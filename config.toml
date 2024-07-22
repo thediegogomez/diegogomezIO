@@ -1,6 +1,6 @@
-baseURL       = "http://example.org/"
+baseURL       = "http://diegogomez.io/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "Diego Gomez | Digital Designer"
 theme         = "roxo-hugo"
 summarylength = 25
 
@@ -24,7 +24,7 @@ summarylength = 25
     url     = "blog"
     weight  = 4
   [[menu.nav]]
-    name    = "Let's Work Together"
+    name    = "Get in touch"
     url     = "contact"
     weight  = 5
 
