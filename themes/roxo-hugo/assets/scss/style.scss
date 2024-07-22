@@ -1,0 +1,48 @@
+@import "variables";
+
+@import "typography";
+
+@import "mixins";
+
+@import "buttons";
+
+@import "common";
+
+@import "components/navigation";
+
+@import "components/hero";
+
+@import "components/counter";
+
+@import "components/project";
+
+@import "components/blog";
+
+@import "components/testimonial";
+
+@import "components/cta";
+
+@import "components/about";
+
+@import "components/expertise";
+
+@import "components/client";
+
+@import "components/team";
+
+@import "components/contact";
+
+@import "components/footer";
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+.logo-column img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+}
